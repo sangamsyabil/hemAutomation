@@ -1,6 +1,13 @@
 # hemAutomation
 Automating simple tasks/operations not only saves a lot of our time but it may lead to accomplish many perplexing problems. Those pieces or snippets can be worthwhile when we automate these tasks into action. For those that are Python fans already, you know how friendly Python is for interacting with just about anything. From sending HTTP requests, interacting with APIs, to administering system operations. Even if you're not a fan of Python, these ideas can be summed.
 
+**apis**
+
+| Name | Short Description | Key Packages/Utilities |
+| --- | --- | --- |
+| [Weather Report Card][weather_report] | Displays a weather report in your current city with current weather conditions and 3 Days Forecast per 5 Hours.  | `configparser, json, datetime, tabulate` |
+
+
 **filesystem**
 
 | Name | Short Description | Key Packages/Utilities |
@@ -13,7 +20,7 @@ Automating simple tasks/operations not only saves a lot of our time but it may l
 
 
 
-[repo_root]: https://github.com/sangamsyabil/hemAutomation/
+[weather_report]: https://github.com/sangamsyabil/hemAutomation/blob/main/apis/weather_report_card.py
 [file_monitoring]: https://github.com/sangamsyabil/hemAutomation/blob/main/filesystem/filesystem_monitoring.py
 [check_downloadable]: https://github.com/sangamsyabil/hemAutomation/blob/main/filesystem/check_downloadable.py
 [large_files]: https://github.com/sangamsyabil/hemAutomation/blob/main/filesystem/search_for_large_files.py
