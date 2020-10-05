@@ -3,5 +3,6 @@ chardet==3.0.4
 idna==2.10
 pathtools==0.1.2
 requests==2.24.0
+tabulate==0.8.7
 urllib3==1.25.10
 watchdog==0.10.3
